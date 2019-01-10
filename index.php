@@ -13,18 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PHP Application - AWS Elastic Beanstalk</title>
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
-    <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
-    <link rel="shortcut icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
-    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" href="/styles.css" type="text/css">
-</head>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PHP Application - AWS Elastic Beanstalk</title>
+    <title>PHP Application - Ubuntu Container on Docker</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
     <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
@@ -35,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations!</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>Your Ubuntu <em>PHP</em> application is now running on your own dedicated environment in the Standalone Docker Container</p>
         <p>You are running PHP version <?= phpversion() ?></p>
 		<p>this application version 20</p>
     </section>
