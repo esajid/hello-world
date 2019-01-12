@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PHP Application - Ubuntu Container on Docker</title>
+    <title>PHP Application - Running On AWS Elastic Beanstalk</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
     <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
@@ -24,9 +24,9 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations!</h1>
-        <p>Your Ubuntu <em>PHP</em> application is now running on your own dedicated environment in the Standalone Docker Container</p>
+        <p>Your Ubuntu <em>PHP</em> application is now running on AWS</p>
         <p>You are running PHP version <?= phpversion() ?></p>
-		<p>this application version 20</p>
+		<p>this application version 21</p>
     </section>
 
     <section class="instructions">
