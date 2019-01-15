@@ -26,7 +26,7 @@ else
         <h1>Congratulations!</h1>
         <p>Your Ubuntu <em>PHP</em> application is now running on AWS</p>
         <p>You are running PHP version <?= phpversion() ?></p>
-		<p>this application version 21</p>
+		<p>This application version 30</p>
     </section>
 
     <section class="instructions">
